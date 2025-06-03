@@ -37,7 +37,7 @@
     
     if($x == 9 && $y ==3);
     {
-        echo"Estas en lo correcto"
+        echo"Estas en lo correcto";
     }
 ?>
 
